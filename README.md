@@ -1,2 +1,2 @@
 ## Live at 
-[https://memegenerat.netlify.app/]
+https://memegenerat.netlify.app/
